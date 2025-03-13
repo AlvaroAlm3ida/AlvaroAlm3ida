@@ -10,10 +10,10 @@ My name is Alvaro dos Santos Almeida, I'm 22 years old, I completed my undergrad
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/AlvaroAlm3ida?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/AlvaroAlm3ida?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
